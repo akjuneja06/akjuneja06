@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akjuneja06" alt="akjuneja06" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Powered Solution for the Bonagrad Problem**
+- 🔭 I’m currently working on **Solving Bongard Problems with Conceptual Transfer Learning via Multi-Head CNN**
 
 - 🌱 I’m currently learning **to deploy and scale deep learning models in production environments, using tools such as Docker, Kubernetes, and cloud services like AWS or GCP.**
 
