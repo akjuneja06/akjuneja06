@@ -1,6 +1,6 @@
 ![MasterHead](https://chargebacks911.com/wp-content/uploads/2022/02/Fraud-Detection-Machine-Learning-blog.gif)
 <h1 align="center">Hi 👋, I'm Ankit Juneja</h1>
-<h3 align="center">Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akjuneja06&label=Profile%20views&color=0e75b6&style=flat" alt="akjuneja06" /> </p>
 
